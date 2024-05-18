@@ -21,6 +21,7 @@ My Research Interest:
 - PLC & DCS Automation
 - Embedded System
 - Renewable energy
+- AI (Computer vision, Machine Learning, Robotics)
 
 I am open to:
 - any collaboration work
