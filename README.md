@@ -117,7 +117,11 @@ I am open to:
 
 <br>
 <br>
-
+<p style="text-align:center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=alimfattah&color=blueviolet">
+</a>
+<p>
 
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
